@@ -1,6 +1,3 @@
-# hello-world
-The Begining
-
 Hi, 
 My philosophy - 
   No Gain without Pain
